@@ -38,9 +38,6 @@ $stmt->execute();
 $resultSet = $stmt->fetchAll();
 echo '<p>Students information:</p>';
 foreach ($resultSet as $row) {
-    <tr>trung/<tr>
-    <tr>trung/<tr>
-
 	echo $row['stuid'];
         echo "    ";
         echo $row['fname'];
