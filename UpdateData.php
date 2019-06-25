@@ -2,14 +2,14 @@
 <html>
 <body>
 
-<h1>INSERT DATA TO DATABASE</h1>
+<h1>UPDATE DATA TO DATABASE</h1>
 <ul>
  <form name="UpdateData" action="UpdateData.php" method="POST" >
-<li>User ID:</li><li><input type="text" name="stuid" /></li>
-<li>Full Name:</li><li><input type="text" name="fname" /></li>
-<li>Email:</li><li><input type="text" name="email" /></li>
-<li>Address:</li><li><input type="text" name="classname" /></li>
-<li><input type="submit" /></li>
+<li style="list-style: none;">User ID:</li><li><input type="text" name="stuid" /></li>
+<li style="list-style: none;">Full Name:</li><li><input type="text" name="fname" /></li>
+<li style="list-style: none;">Email:</li><li><input type="text" name="email" /></li>
+<li style="list-style: none;">Address:</li><li><input type="text" name="classname" /></li>
+<li style="list-style: none;"><input type="submit" /></li>
 </form>
 </ul>
 <?php
