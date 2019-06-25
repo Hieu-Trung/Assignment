@@ -23,11 +23,11 @@
  	<br>
      <a href="ConnectToDB.php" target="_blank" style="border: 1px solid; float: left;" >Connect database</a>
      <br/>
-     <a href="InsertData.php" target="_blank" style="border: 1px solid; float: left; margin-left: 10px;">Insert data to the database</a>
+     <a href="InsertData.php" target="_blank" style="border: 1px solid; float: left; margin-left: 500px;">Insert data to the database</a>
      <br/>
-     <a href="UpdateData.php" target="_blank" style="border: 1px solid; float: left;">Update data to the database</a> 
+     <a href="UpdateData.php" target="_blank" style="border: 1px solid; float: left; margin-left: 500px;">Update data to the database</a> 
     <br/>
-    <a href="DeleteData.php" target="_blank" style="border: 1px solid; float: left;">Delete data to the database</a> 
+    <a href="DeleteData.php" target="_blank" style="border: 1px solid; float: left; margin-left: 500px;">Delete data to the database</a> 
 
  </body>
 </html>
