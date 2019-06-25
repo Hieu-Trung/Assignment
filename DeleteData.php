@@ -8,7 +8,7 @@
 <li style="list-style: none;">User ID:</li><li style="list-style: none;"><input type="text" name="stuid" /></li>
 
 
-<li><input type="submit" /></li>
+<li style="list-style: none;"><input type="submit" /></li>
 </form>
 </ul>
 <?php
