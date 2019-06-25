@@ -5,10 +5,10 @@
 <h1>INSERT DATA TO DATABASE</h1>
 <ul>
  <form name="UpdateData" action="UpdateData.php" method="POST" >
-<li>Student ID:</li><li><input type="text" name="stuid" /></li>
+<li>User ID:</li><li><input type="text" name="stuid" /></li>
 <li>Full Name:</li><li><input type="text" name="fname" /></li>
 <li>Email:</li><li><input type="text" name="email" /></li>
-<li>Class:</li><li><input type="text" name="classname" /></li>
+<li>Address:</li><li><input type="text" name="classname" /></li>
 <li><input type="submit" /></li>
 </form>
 </ul>
