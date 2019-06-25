@@ -23,7 +23,7 @@
  	<br>
      <a href="ConnectToDB.php" target="_blank" style="border: 1px solid; float: left; margin-left: 300px; margin-top: 55px; text-decoration: none;" >Connect database</a>
      <br/>
-     <a href="InsertData.php" target="_blank" style="border: 1px solid; float: left; margin-left: 50px; margin-top: 35px; text-decoration: none;">Insert data to the database</a>
+     <a href="InsertData.php" target="_blank" style="border: 1px solid; float: left; margin-left: 50px; margin-top: 36px; text-decoration: none;">Insert data to the database</a>
      <br/>
      <a href="UpdateData.php" target="_blank" style="border: 1px solid; float: left; margin-left: 50px; margin-top: 18px; text-decoration: none;">Update data to the database</a> 
     <br/>
