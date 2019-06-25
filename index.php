@@ -21,7 +21,7 @@
  	<br>
  	<br>
  	<br>
-     <a href="ConnectToDB.php" target="_blank" style="border: 1px solid; float: left;" >Connect database</a>
+     <a href="ConnectToDB.php" target="_blank" style="border: 1px solid; float: left; margin-left: 200px; margin-top: 50px;" >Connect database</a>
      <br/>
      <a href="InsertData.php" target="_blank" style="border: 1px solid; float: left; margin-left: 50px;">Insert data to the database</a>
      <br/>
