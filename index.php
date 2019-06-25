@@ -25,9 +25,9 @@
      <br/>
      <a href="InsertData.php" target="_blank" style="border: 1px solid; float: left; margin-left: 50px; margin-top: 32px;">Insert data to the database</a>
      <br/>
-     <a href="UpdateData.php" target="_blank" style="border: 1px solid; float: left; margin-left: 50px; margin-top: 20px;">Update data to the database</a> 
+     <a href="UpdateData.php" target="_blank" style="border: 1px solid; float: left; margin-left: 50px; margin-top: 15px;">Update data to the database</a> 
     <br/>
-    <a href="DeleteData.php" target="_blank" style="border: 1px solid; float: left; margin-left: 50px; margin-top: 4px;">Delete data to the database</a> 
+    <a href="DeleteData.php" target="_blank" style="border: 1px solid; float: left; margin-left: 50px; margin-top: 0px;">Delete data to the database</a> 
 
  </body>
 </html>
