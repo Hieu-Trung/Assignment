@@ -14,20 +14,20 @@
  	
  </style>
  <body>
-	<h2 style="text-align: center;">Hello Teacher</h2> 	
+	<h2 style="text-align: center;">HELLO EVERYONE</h2> 	
  	<p><strong>Name:</strong> Trần Hiếu Trung</p>
  	<p><strong>Clas:</strong> GCD0818</p>
  	<p><strong>ID:</strong> GCD17062</p>
  	<br>
  	<br>
  	<br>
-     <a href="ConnectToDB.php" target="_blank" style="border: 1px solid black; float: left; margin-left: 300px; margin-top: 55px; text-decoration: none; color: black; background: white;" >Connect database</a>
+     <a href="ConnectToDB.php" target="_blank" style="border: 1px solid white; float: left; margin-left: 300px; margin-top: 55px; text-decoration: none; color: white; background: black;" >Connect database</a>
      <br/>
-     <a href="InsertData.php" target="_blank" style="border: 1px solid black; float: left; margin-left: 50px; margin-top: 36px; text-decoration: none; color: black; background: white;">Insert data to the database</a>
+     <a href="InsertData.php" target="_blank" style="border: 1px solid white; float: left; margin-left: 50px; margin-top: 36px; text-decoration: none; color: white; background: black;">Insert data to the database</a>
      <br/>
-     <a href="UpdateData.php" target="_blank" style="border: 1px solid black; float: left; margin-left: 50px; margin-top: 18px; text-decoration: none; color: black; background: white;">Update data to the database</a> 
+     <a href="UpdateData.php" target="_blank" style="border: 1px solid white; float: left; margin-left: 50px; margin-top: 18px; text-decoration: none; color: white; background: black;">Update data to the database</a> 
     <br/>
-    <a href="DeleteData.php" target="_blank" style="border: 1px solid black; float: left; margin-left: 50px; text-decoration: none; color: black; background: white;">Delete data to the database</a> 
+    <a href="DeleteData.php" target="_blank" style="border: 1px solid white; float: left; margin-left: 50px; text-decoration: none; color: white; background: black;">Delete data to the database</a> 
 
  </body>
 </html>
