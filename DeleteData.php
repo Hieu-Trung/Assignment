@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>INSERT DATA TO DATABASE</h1>
+<h1>DELETE DATA TO DATABASE</h1>
 <ul>
     <form name="DeleteData" action="DeleteData.php" method="POST" >
 <li>User ID:</li><li><input type="text" name="stuid" /></li>
