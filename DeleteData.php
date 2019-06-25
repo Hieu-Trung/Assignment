@@ -5,7 +5,8 @@
 <h1>INSERT DATA TO DATABASE</h1>
 <ul>
     <form name="DeleteData" action="DeleteData.php" method="POST" >
-<li>Student ID:</li><li><input type="text" name="stuid" /></li>
+<li>User ID:</li><li><input type="text" name="stuid" /></li>
+
 
 <li><input type="submit" /></li>
 </form>
